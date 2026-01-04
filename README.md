@@ -28,3 +28,6 @@ A wearable, on-device safety system that detects abnormal struggle-like motion u
 - BINWANT KAUR
 - ANUSHKA NEHRA
 - MANYA S
+
+## 📜 License
+MIT License
