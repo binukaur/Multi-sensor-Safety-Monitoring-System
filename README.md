@@ -30,7 +30,7 @@ This project uses **real-time sensor data** collected directly from hardware.
 - Source: Onboard microphone
 - Target sounds: screaming, shouting, distress vocalizations
 
-No pre-recorded or public datasets are used.
+Scream pre-recorded public dataset is used. 
 
 ## Model Pipeline and Workflow
 
