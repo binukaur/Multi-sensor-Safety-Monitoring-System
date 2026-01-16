@@ -6,6 +6,9 @@ A wearable, on-device safety system that detects abnormal struggle-like motion u
 
 Unsafe situations such as harassment or physical assault often occur suddenly, leaving victims unable to manually trigger safety mechanisms. Most existing solutions rely on smartphones or SOS buttons, which may not be accessible during panic or physical restraint. There is a need for an autonomous wearable system that can detect distress situations automatically and respond in real time.
 
+![WIN_20260104_12_47_57_Pro](https://github.com/user-attachments/assets/7563f4b8-6d62-4670-8db6-42b055263f5c)
+
+
 ## Goal of the Project
 
 The goal of this project is to design a **wearable safety system** that:
@@ -98,7 +101,11 @@ The system operates offline and does not require internet connectivity.
 - **Bhagyalakshmi Murlidharan** – Workflow and Integration  
 - **Manya S** – Documentation & System Integration
 
+![WhatsApp Image 2026-01-03 at 8 37 01 PM](https://github.com/user-attachments/assets/ad2902c1-8bbf-4ec5-b2d5-eaad07d1d6c2)
+
 
 ## License
 
 This project is licensed under the MIT License.
+
+For questions, feedback, or collaboration opportunities, please contact: binwant2002@gmail.com
